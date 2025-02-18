@@ -8,10 +8,10 @@ string model;
 int fuelcapacity;
 int fuelquantity;
 int cc;
-float fuelconsumption;
-int distance;
-int currentfuel;
-int refuel;
+double fuelconsumption;
+float distance;
+double currentfuel;
+float refuel;
 
 car(string b,string m,int fc){
    brand=b;
